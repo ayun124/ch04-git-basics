@@ -31,3 +31,10 @@ breakfast today
 
 7. Push changes up to GitHub.  See [Pushing and
    Pulling](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#pushing-and-pulling). 
+
+## What I had for Breakfast:
+
+1. Buttered Toast
+2. Fried Eggs
+3. Sausage
+4. Water
